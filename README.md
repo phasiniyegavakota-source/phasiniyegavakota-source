@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi, I'm Hasini Prasad 👋</h1>
 
 <p align="center">
@@ -45,29 +44,7 @@ My projects span computer vision, applied machine learning, full-stack web devel
 | [🩸 Blood Donation Web App](https://github.com/phasiniyegavakota-source/blood-donation-webapp) | Donor management system with eligibility-aware search | Flask, MySQL |
 | [📋 Task Management System](https://github.com/phasiniyegavakota-source/task-management-system) | Task platform with RBAC, sprints, and Jira integration | Flask, Jira API |
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phasiniyegavakota-source&show_icons=true&theme=default&hide_title=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phasiniyegavakota-source&layout=compact&theme=default" />
-</p>
-
 ### 📫 Get in Touch
 
 - 📧 [hasinip2002@gmail.com](mailto:hasinip2002@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/hasini-prasad-b761b0286)
-
-<!--
-**phasiniyegavakota-source/phasiniyegavakota-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
