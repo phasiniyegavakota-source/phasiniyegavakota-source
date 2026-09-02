@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hasini Prasad 👋</h1>
 
 <p align="center">
-  <b>Aspiring AI/ML & Data Engineer</b> · M.S. Computer Science, University of North Texas
+  <b>Aspiring AI/ML & Data Engineer</b> · M.S. Computer Science, UNT, Texas, USA
 </p>
 
 <p align="center">
